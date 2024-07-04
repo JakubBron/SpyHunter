@@ -1,2 +1,2 @@
 # SpyHunter
-Simple game in C++.
+Simple game in C.
